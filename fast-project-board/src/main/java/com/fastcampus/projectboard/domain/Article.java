@@ -7,6 +7,5 @@ public class Article {
     private String title;   // 제목
     private String content;   //   본문
     private String hashtag;     // 해시태그
-    문
 
 }
